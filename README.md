@@ -1,2 +1,3 @@
 # Lab1
-![Alt text](/hellotoast.png "Hello Toast")
+<img src="./hellotoast.png" alt="alt text" width="350" height="500">
+
