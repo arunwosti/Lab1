@@ -1,2 +1,2 @@
 # Lab1
-![Alt text](.hellotoast.png "Optional title")
+![Alt text](/hellotoast.png "Hello Toast")
